@@ -1,0 +1,8 @@
+# JoseDeOcampo Module Three
+
+## Answers:
+
+1.) In Python, to add a single-line comment, you use the # symbol
+2.) In C++, to add a single-line comment, you use the // symbols.
+3.) In Python, to add a multi-line comment, you enclose the comment between ''' or """
+4.) In C++, to add a multi-line comment, you enclose the comment between /* and */
